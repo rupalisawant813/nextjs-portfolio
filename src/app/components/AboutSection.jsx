@@ -12,9 +12,11 @@ const TAB_DATA = [
         <li>Node.js</li>
        
         <li>PostgreSQL</li>
-       
+
         <li>JavaScript</li>
+
         <li>React</li>
+        
       </ul>
     ),
   },
