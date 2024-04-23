@@ -23,7 +23,7 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>BCA (Science) Grduated</li>
+        <li>BCA (Science) Grduated 2023</li>
         <li>University of SPPU</li>
       </ul>
     ),
